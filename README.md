@@ -34,7 +34,7 @@ git clone https://github.com/CodexLabsLLC/Colosseum.git
 ```
 - Build AirSim in Developer Command Prompt for VS 2022
 ```bash
-dir your_directory/Colosseum
+cd your_directory/Colosseum
 ```
 ```bash
 build.cmd
