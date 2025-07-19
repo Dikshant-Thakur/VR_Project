@@ -1,3 +1,15 @@
+
+
+# (Videos quality may be lower than in the original Unreal Engine, because the videos are compressed.)
+# UAV Inspection
+https://github.com/user-attachments/assets/f60fb4da-7388-4b72-979d-e35c1042b910
+
+# UGV Inspection
+https://github.com/user-attachments/assets/6767866b-6185-4fbb-8ce0-baac02f019cc
+
+# WIDGET DISPLAY 
+https://github.com/user-attachments/assets/fcbd394b-493b-43d1-9afb-08d0eb7b98a6
+
 # Dynamic Hazard Simulation and Autonomous Response in Industrial Environments (IPLOM Oil refinery)
 ---
 ## Project description
